@@ -11,6 +11,6 @@
 拖动中:  
 ![image](images/拖动界面.jpg)
 验证成功:  
-![image](images/成功界面.jpg)
+![image](images/验证成功.jpg)
 验证失败  
-![image](images/失败界面.jpg)
+![image](images/验证失败.jpg)

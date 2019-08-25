@@ -7,10 +7,10 @@
 3.前端接收拖动事件，判断拖动后位置，发送给后端进行匹配  
 4.如果拖动位置准确，则跳转成功界面，否则跳转失败页面   
 效果图:  
-![image](images/展示界面.jpg)
+![image](images/展示界面.jpg)  
 拖动中:  
-![image](images/拖动界面.jpg)
+![image](images/拖动界面.jpg)  
 验证成功:  
-![image](images/验证成功.jpg)
+![image](images/验证成功.jpg)  
 验证失败  
-![image](images/验证失败.jpg)
+![image](images/验证失败.jpg)  
